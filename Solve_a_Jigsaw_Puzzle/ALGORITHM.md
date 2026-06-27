@@ -1,3 +1,13 @@
+---
+company: Asana
+tags:
+  - algorithm
+  - backtracking
+  - constraint-satisfaction
+  - asana
+related: "[[README]]"
+---
+
 # Algorithm: Solve a Jigsaw Puzzle
 
 ## High-Level Strategy

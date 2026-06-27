@@ -1,3 +1,20 @@
+---
+company: Asana
+difficulty: Medium
+round: Technical Screen
+tags:
+  - asana
+  - medium
+  - backtracking
+  - constraint-satisfaction
+  - factor-enumeration
+algorithms:
+  - Backtracking
+  - Constraint Satisfaction
+  - Precomputed Match Tables
+  - Factor Enumeration
+---
+
 # Solve a Jigsaw Puzzle
 
 **Company:** Asana | **Role:** Software Engineer | **Difficulty:** Medium | **Round:** Technical Screen

@@ -1,3 +1,13 @@
+---
+company: Google
+tags:
+  - algorithm
+  - heap
+  - two-pointer
+  - google
+related: "[[README]]"
+---
+
 # Algorithm: Rooms and Top-K Streams
 
 ---

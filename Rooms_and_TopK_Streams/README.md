@@ -1,3 +1,19 @@
+---
+company: Google
+difficulty: Medium
+round: Technical Screen
+tags:
+  - google
+  - medium
+  - heap
+  - two-pointer
+  - sorting
+algorithms:
+  - Two-Pointer on Sorted Events
+  - Min-Heap on End Times
+  - Fixed-Size Min-Heap with Custom Comparator
+---
+
 # Rooms and Top-K Streams
 
 **Company:** Google | **Role:** Software Engineer | **Difficulty:** Medium | **Round:** Technical Screen
