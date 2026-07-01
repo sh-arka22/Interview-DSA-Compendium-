@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Validate_a_Shopping_Cart/README.md",
+                "file": "Persistent_LRU_Cache/README.md",
                 "mode": "preview",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Validate_a_Shopping_Cart/README.md",
+                "file": "Persistent_LRU_Cache/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Validate_a_Shopping_Cart/README.md",
+                "file": "Persistent_LRU_Cache/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Validate_a_Shopping_Cart/README.md",
+                "file": "Persistent_LRU_Cache/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,22 +184,32 @@
   },
   "active": "49f46e4caf6312c7",
   "lastOpenFiles": [
-    "Validate_a_Shopping_Cart/solution_platform.cpp",
+    "Implement_a_Banking_System/README.md",
+    "Persistent_LRU_Cache/README.md",
+    "Persistent_LRU_Cache/ALGORITHM.md",
+    "Canonical_Cache_Key/README.md",
+    "Persistent_LRU_Cache/solution_platform.cpp",
+    "Persistent_LRU_Cache/test",
+    "Persistent_LRU_Cache/test.cpp",
+    "Persistent_LRU_Cache/solution.cpp",
+    "Persistent_LRU_Cache",
+    "Canonical_Cache_Key/ALGORITHM.md",
+    "Implement_a_Banking_System/ALGORITHM.md",
+    "Maximize_Unique_Chars/README.md",
+    "Maximize_Unique_Chars/ALGORITHM.md",
+    "Canonical_Cache_Key/solution_platform.cpp",
+    "Canonical_Cache_Key/test",
+    "Canonical_Cache_Key/test.cpp",
+    "Canonical_Cache_Key/solution.cpp",
+    "Canonical_Cache_Key",
+    "Implement_a_Banking_System/image.png",
+    "LRU_Cache/README.md",
+    "LRU_Cache/ALGORITHM.md",
+    "Validate_a_Shopping_Cart/README.md",
     "Validate_a_Shopping_Cart/ALGORITHM.md",
     "In_Memory_Logging_System/README.md",
-    "Validate_a_Shopping_Cart/test",
-    "Validate_a_Shopping_Cart/solution.cpp.tmp.14710.d4f5f0cc5a4a",
-    "Validate_a_Shopping_Cart/test.cpp",
-    "Validate_a_Shopping_Cart/solution.cpp",
-    "Validate_a_Shopping_Cart/README.md",
-    "Validate_a_Shopping_Cart",
     "In_Memory_Logging_System/ALGORITHM.md",
-    "In_Memory_Logging_System/solution_part2.cpp",
-    "In_Memory_Logging_System/solution_part1.cpp",
     "Rooms_and_TopK_Streams/ALGORITHM.md",
-    "In_Memory_Logging_System/test",
-    "In_Memory_Logging_System/test.cpp",
-    "In_Memory_Logging_System/solution.cpp",
     "Rooms_and_TopK_Streams/README.md",
     "Solve_a_Jigsaw_Puzzle/ALGORITHM.md",
     "Solve_a_Jigsaw_Puzzle/README.md",
