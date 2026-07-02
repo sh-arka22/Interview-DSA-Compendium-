@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Persistent_LRU_Cache/README.md",
+                "file": "In_Memory_KV_Transactions/ALGORITHM.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ALGORITHM"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Persistent_LRU_Cache/README.md",
+                "file": "In_Memory_KV_Transactions/ALGORITHM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for ALGORITHM"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Persistent_LRU_Cache/README.md",
+                "file": "In_Memory_KV_Transactions/ALGORITHM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from ALGORITHM"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Persistent_LRU_Cache/README.md",
+                "file": "In_Memory_KV_Transactions/ALGORITHM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of ALGORITHM"
             }
           }
         ]
@@ -184,24 +184,35 @@
   },
   "active": "49f46e4caf6312c7",
   "lastOpenFiles": [
-    "Implement_a_Banking_System/README.md",
     "Persistent_LRU_Cache/README.md",
+    "In_Memory_KV_Transactions/ALGORITHM.md",
+    "In_Memory_KV_Transactions/README.md",
+    "In_Memory_KV_Transactions/test",
+    "In_Memory_KV_Transactions/test.cpp",
+    "In_Memory_KV_Transactions/solution.cpp",
+    "In_Memory_KV_Transactions",
+    "Simulate_Monster_Team_Battles/README.md",
+    "Simulate_Monster_Team_Battles/ALGORITHM.md",
+    "Simulate_Monster_Team_Battles/solution.cpp",
+    "Simulate_Monster_Team_Battles",
+    "Circular_Drone_Route/ALGORITHM.md",
+    "Circular_Drone_Route/README.md",
+    "Circular_Drone_Route/test",
+    "Circular_Drone_Route/test.cpp",
+    "Circular_Drone_Route/solution.cpp",
+    "Circular_Drone_Route",
+    "Min_Path_One_Conversion/ALGORITHM.md",
+    "Min_Path_One_Conversion/README.md",
+    "Exclusive_CPU_Time/ALGORITHM.md",
+    "Exclusive_CPU_Time/README.md",
+    "_templates/README.md",
+    "Implement_a_Banking_System/README.md",
     "Persistent_LRU_Cache/ALGORITHM.md",
     "Canonical_Cache_Key/README.md",
-    "Persistent_LRU_Cache/solution_platform.cpp",
-    "Persistent_LRU_Cache/test",
-    "Persistent_LRU_Cache/test.cpp",
-    "Persistent_LRU_Cache/solution.cpp",
-    "Persistent_LRU_Cache",
     "Canonical_Cache_Key/ALGORITHM.md",
     "Implement_a_Banking_System/ALGORITHM.md",
     "Maximize_Unique_Chars/README.md",
     "Maximize_Unique_Chars/ALGORITHM.md",
-    "Canonical_Cache_Key/solution_platform.cpp",
-    "Canonical_Cache_Key/test",
-    "Canonical_Cache_Key/test.cpp",
-    "Canonical_Cache_Key/solution.cpp",
-    "Canonical_Cache_Key",
     "Implement_a_Banking_System/image.png",
     "LRU_Cache/README.md",
     "LRU_Cache/ALGORITHM.md",
@@ -209,10 +220,6 @@
     "Validate_a_Shopping_Cart/ALGORITHM.md",
     "In_Memory_Logging_System/README.md",
     "In_Memory_Logging_System/ALGORITHM.md",
-    "Rooms_and_TopK_Streams/ALGORITHM.md",
-    "Rooms_and_TopK_Streams/README.md",
-    "Solve_a_Jigsaw_Puzzle/ALGORITHM.md",
-    "Solve_a_Jigsaw_Puzzle/README.md",
-    "README.md"
+    "Rooms_and_TopK_Streams/ALGORITHM.md"
   ]
 }

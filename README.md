@@ -22,3 +22,7 @@ A collection of interview questions with detailed algorithmic solutions, test ca
 | 7 | [Maximize Unique Characters](./Maximize_Unique_Chars/README.md) | Meta | Medium | Bitmask Enumeration · Subset Search · 26-bit Char Mask |
 | 8 | [Canonical Cache Key Generation](./Canonical_Cache_Key/README.md) | Anthropic | Medium | Recursive-Descent JSON Parser · Sorted Object Keys · Canonicalization |
 | 9 | [Persistent LRU Cache](./Persistent_LRU_Cache/README.md) | Anthropic | Hard | LRU Cache · Append-Only Log · JSON Recovery · Key Normalization |
+| 10 | [Compute Exclusive CPU Time from Nested Logs](./Exclusive_CPU_Time/README.md) | Decagon | Medium | Call Stack Simulation · Log-Line Parsing · Inclusive/Exclusive Interval Accounting |
+| 11 | [Minimum Path With One Cell Conversion](./Min_Path_One_Conversion/README.md) | Amazon | Medium | Product-Graph BFS · State-Augmented Search · Grid × Conversion Automaton |
+| 12 | [Circular Drone Hub Delivery Route](./Circular_Drone_Route/README.md) | Amazon | Medium | Prefix Sums on a Ring · Circular Arc = min(arc, total−arc) · O(1) Per Leg |
+| 13 | [In-Memory KV Database with Nested Transactions](./In_Memory_KV_Transactions/README.md) | Anthropic | Medium | Single Live State · Per-Transaction Undo Log · Incremental Value Count · Reverse-Replay Rollback |
