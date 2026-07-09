@@ -184,6 +184,12 @@
   },
   "active": "49f46e4caf6312c7",
   "lastOpenFiles": [
+    "Infection_Spread_Death_Threshold/ALGORITHM.md",
+    "Infection_Spread_Death_Threshold/README.md",
+    "Infection_Spread_Death_Threshold/test",
+    "Infection_Spread_Death_Threshold/test.cpp",
+    "Infection_Spread_Death_Threshold/solution.cpp",
+    "Infection_Spread_Death_Threshold",
     "Persistent_LRU_Cache/README.md",
     "In_Memory_KV_Transactions/ALGORITHM.md",
     "In_Memory_KV_Transactions/README.md",
@@ -197,10 +203,6 @@
     "Simulate_Monster_Team_Battles",
     "Circular_Drone_Route/ALGORITHM.md",
     "Circular_Drone_Route/README.md",
-    "Circular_Drone_Route/test",
-    "Circular_Drone_Route/test.cpp",
-    "Circular_Drone_Route/solution.cpp",
-    "Circular_Drone_Route",
     "Min_Path_One_Conversion/ALGORITHM.md",
     "Min_Path_One_Conversion/README.md",
     "Exclusive_CPU_Time/ALGORITHM.md",
@@ -218,8 +220,6 @@
     "LRU_Cache/ALGORITHM.md",
     "Validate_a_Shopping_Cart/README.md",
     "Validate_a_Shopping_Cart/ALGORITHM.md",
-    "In_Memory_Logging_System/README.md",
-    "In_Memory_Logging_System/ALGORITHM.md",
-    "Rooms_and_TopK_Streams/ALGORITHM.md"
+    "In_Memory_Logging_System/README.md"
   ]
 }

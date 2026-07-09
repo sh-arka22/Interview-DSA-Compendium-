@@ -26,3 +26,8 @@ A collection of interview questions with detailed algorithmic solutions, test ca
 | 11 | [Minimum Path With One Cell Conversion](./Min_Path_One_Conversion/README.md) | Amazon | Medium | Product-Graph BFS · State-Augmented Search · Grid × Conversion Automaton |
 | 12 | [Circular Drone Hub Delivery Route](./Circular_Drone_Route/README.md) | Amazon | Medium | Prefix Sums on a Ring · Circular Arc = min(arc, total−arc) · O(1) Per Leg |
 | 13 | [In-Memory KV Database with Nested Transactions](./In_Memory_KV_Transactions/README.md) | Anthropic | Medium | Single Live State · Per-Transaction Undo Log · Incremental Value Count · Reverse-Replay Rollback |
+| 14 | [Infection Spread Simulation with Death Threshold](./Infection_Spread_Death_Threshold/README.md) | OpenAI | Medium | Multi-State Cellular Automaton · Event-Driven Frontier (each cell infected ≤ once) · Moore-Neighborhood Vote Counting · Reused Scratch Grid (O(touched) clear) · Fixed-Point Detection |
+| 15 | [Moderator System I — Single Community Ranking](./Moderator_System_I_Single_Community/README.md) | Reddit | Medium | Doubly Linked List · Hash Map · Append-Order Key as Rank Proxy |
+| 16 | [Moderator System II — Multiple Communities](./Moderator_System_II_Multiple_Communities/README.md) | Reddit | Medium | Doubly Linked List · Hash Map · Per-Community Namespacing |
+| 17 | [Moderator System III — Demotion](./Moderator_System_III_Demotion/README.md) | Reddit | Hard | Order-Maintenance via Adjacent Key Swap · `list::splice` O(1) Reorder |
+| 18 | [Same-Domain Web Crawl (BFS)](./Same_Domain_Web_Crawl/README.md) | Anthropic | Medium | Queue-Based BFS · Visited-Set Dedupe (mark on enqueue) · Same-Domain Filter · Host/Root Parsing |
