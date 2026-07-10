@@ -31,3 +31,4 @@ A collection of interview questions with detailed algorithmic solutions, test ca
 | 16 | [Moderator System II — Multiple Communities](./Moderator_System_II_Multiple_Communities/README.md) | Reddit | Medium | Doubly Linked List · Hash Map · Per-Community Namespacing |
 | 17 | [Moderator System III — Demotion](./Moderator_System_III_Demotion/README.md) | Reddit | Hard | Order-Maintenance via Adjacent Key Swap · `list::splice` O(1) Reorder |
 | 18 | [Same-Domain Web Crawl (BFS)](./Same_Domain_Web_Crawl/README.md) | Anthropic | Medium | Queue-Based BFS · Visited-Set Dedupe (mark on enqueue) · Same-Domain Filter · Host/Root Parsing |
+| 19 | [Minimum Cells to Bridge a Magic Grid](./Minimum_Cells_Bridge_Magic_Grid/README.md) | Apple | Hard | 0-1 BFS (deque) · Dijkstra · Binary Search on Answer + Layered DFS · Multi-Source Virtual Node |
