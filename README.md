@@ -34,3 +34,4 @@ A collection of interview questions with detailed algorithmic solutions, test ca
 | 19 | [Minimum Cells to Bridge a Magic Grid](./Minimum_Cells_Bridge_Magic_Grid/README.md) | Apple | Hard | 0-1 BFS (deque) · Dijkstra · Binary Search on Answer + Layered DFS · Multi-Source Virtual Node |
 | 20 | [Minimal Unique Word Abbreviations](./Minimal_Unique_Word_Abbreviations/README.md) | Apple | Hard | Group by (Length, LastChar) · Closed-Form k = 1 + Max LCP · Sort + Adjacent LCP · Unique Abbreviation Parsing |
 | 21 | [Sort Bottom-Left To Top-Right Diagonals](./Sort_BottomLeft_TopRight_Diagonals/README.md) | Capital One | Medium | ↗ Diagonal Traversal · Start-Cell Enumeration (bottom row → left column) · stable_sort as Tie-Break |
+| 22 | [Design In-Memory File System](./Design_In_Memory_File_System/README.md) | LeetCode 588 | Hard | Trie of Hash Maps · Tagged Node (file/dir in one struct) · O(depth) Walk-or-Create · Lexicographic ls |
